@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1757156676067",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -481,7 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "秀才导航",
-  "search": "bing",
-  "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
+  "title": "秀才导航"
 }
