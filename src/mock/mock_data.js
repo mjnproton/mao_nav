@@ -193,20 +193,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
           "id": "nodeseek",
           "name": "NodeSeek",
           "url": "https://www.nodeseek.com",
