@@ -433,19 +433,22 @@ export const mockData = {
           "id": "site-1757233012857",
           "name": "主博",
           "url": "https://blog.124787.xyz/",
-          "description": ""
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
         },
         {
           "id": "site-1757233032942",
           "name": "备份",
           "url": "https://a.124787.xyz/",
-          "description": ""
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
         },
         {
           "id": "site-1757233054954",
           "name": "hexo",
           "url": "https://b.124787.xyz/",
-          "description": ""
+          "description": "",
+          "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
         }
       ]
     }
