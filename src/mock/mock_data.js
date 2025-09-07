@@ -422,6 +422,32 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1757232972760",
+      "icon": "📁",
+      "name": "博客",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757233012857",
+          "name": "主博",
+          "url": "https://blog.124787.xyz/",
+          "description": ""
+        },
+        {
+          "id": "site-1757233032942",
+          "name": "备份",
+          "url": "https://a.124787.xyz/",
+          "description": ""
+        },
+        {
+          "id": "site-1757233054954",
+          "name": "hexo",
+          "url": "https://b.124787.xyz/",
+          "description": ""
+        }
+      ]
     }
   ],
   "title": "秀才导航"
