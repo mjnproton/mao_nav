@@ -451,6 +451,21 @@ export const mockData = {
           "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
         }
       ]
+    },
+    {
+      "id": "category-1757383157759",
+      "icon": "🔍",
+      "name": "聚合导航",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757383258446",
+          "name": "梦哥导航",
+          "url": "https://mgxray.xyz/",
+          "description": "",
+          "icon": "https://mgxray.xyz/wp-content/uploads/2022/07/MG.png"
+        }
+      ]
     }
   ],
   "title": "秀才导航"
