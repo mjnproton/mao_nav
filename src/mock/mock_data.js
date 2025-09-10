@@ -493,6 +493,21 @@ export const mockData = {
           "description": ""
         }
       ]
+    },
+    {
+      "id": "category-1757507338090",
+      "icon": "💻",
+      "name": "影视资源",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757507489090",
+          "name": "厂长资源",
+          "url": "https://www.czzymovie.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "秀才导航"
