@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1757507311328",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": ""
         }
       ]
     },
