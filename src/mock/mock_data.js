@@ -491,6 +491,55 @@ export const mockData = {
           "name": "办公人导航",
           "url": "https://www.bgrdh.com/",
           "description": ""
+        },
+        {
+          "id": "site-1757507542237",
+          "name": "ai工具箱",
+          "url": "https://ai-kit.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507576191",
+          "name": "网络宝藏",
+          "url": "https://nav.wangluobaozang.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507597427",
+          "name": "新龙轩",
+          "url": "http://ilxdh.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507623259",
+          "name": "冲部落",
+          "url": "https://www.chongbuluo.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507650474",
+          "name": "孟坤工具",
+          "url": "https://tool.mkblog.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507668147",
+          "name": "PDF工具",
+          "url": "https://www.pdf24.org/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507685932",
+          "name": "在线工具",
+          "url": "https://tool.lu/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
