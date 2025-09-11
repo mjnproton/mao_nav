@@ -90,6 +90,26 @@ export const mockData = {
           "url": "https://gemini.google.com/app",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757570498343",
+          "name": "可灵ai",
+          "url": "https://app.klingai.com/cn/",
+          "description": ""
+        },
+        {
+          "id": "site-1757570532703",
+          "name": "grok",
+          "url": "https://grok.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757570576317",
+          "name": "google studio",
+          "url": "https://aistudio.google.com/prompts/new_chat",
+          "description": "",
+          "icon": ""
         }
       ]
     },
