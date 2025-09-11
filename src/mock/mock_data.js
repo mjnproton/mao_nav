@@ -295,6 +295,13 @@ export const mockData = {
           "url": "https://www.avast.com/zh-cn/random-password-generator#pc",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757594330003",
+          "name": "康康edu",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -380,7 +387,7 @@ export const mockData = {
     {
       "id": "category-1757232972760",
       "icon": "📁",
-      "name": "博客",
+      "name": "博客导航",
       "order": 0,
       "sites": [
         {
@@ -403,6 +410,20 @@ export const mockData = {
           "url": "https://b.124787.xyz/",
           "description": "",
           "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
+        },
+        {
+          "id": "site-1757594274699",
+          "name": "旺旺IT",
+          "url": "https://nav.wangwangit.com/?",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757594303558",
+          "name": "嘀咕导航",
+          "url": "https://hao.diggoo.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
