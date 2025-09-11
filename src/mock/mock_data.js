@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1757599530335",
+          "name": "今日新闻",
+          "url": "https://tophub.today/c/news",
+          "description": "",
+          "icon": ""
         }
       ]
     },
