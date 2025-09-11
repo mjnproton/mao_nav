@@ -274,6 +274,20 @@ export const mockData = {
           "url": "https://ssyoutube.online/en1/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757593220966",
+          "name": "在线工具",
+          "url": "https://toolonline.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593272844",
+          "name": "avast密码",
+          "url": "https://www.avast.com/zh-cn/random-password-generator#pc",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -493,6 +507,49 @@ export const mockData = {
           "id": "site-1757507833504",
           "name": "毒舌",
           "url": "https://www.dushe1.app/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1757592929786",
+      "icon": "📁",
+      "name": "域名管理",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757592992347",
+          "name": "digital",
+          "url": "https://dash.domain.digitalplat.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593057898",
+          "name": "小姨子域名",
+          "url": "https://www.spaceship.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593107342",
+          "name": "cloudns",
+          "url": "https://www.cloudns.net/index/show/login/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593128178",
+          "name": "l53",
+          "url": "https://customer.l53.net/signup",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593179669",
+          "name": "zabc",
+          "url": "https://zoneabc.net/",
           "description": "",
           "icon": ""
         }
