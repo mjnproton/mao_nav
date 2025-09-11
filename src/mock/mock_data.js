@@ -309,6 +309,13 @@ export const mockData = {
           "url": "https://zmkk.edu.kg/email",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757597233518",
+          "name": "临时邮箱",
+          "url": "https://tempmail.best/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
