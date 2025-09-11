@@ -316,6 +316,20 @@ export const mockData = {
           "url": "https://tempmail.best/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757597306175",
+          "name": "v节点",
+          "url": "https://openproxylist.com/v2ray/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757597349160",
+          "name": "放牧的风",
+          "url": "https://www.youneed.win/category/nodeshare",
+          "description": "",
+          "icon": ""
         }
       ]
     },
