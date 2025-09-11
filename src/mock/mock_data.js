@@ -174,6 +174,20 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1757593460826",
+          "name": "赵云",
+          "url": "https://us-west-1.run.claw.cloud/signin",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593475511",
+          "name": "拥抱脸",
+          "url": "https://huggingface.co/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -286,6 +300,20 @@ export const mockData = {
           "id": "site-1757593272844",
           "name": "avast密码",
           "url": "https://www.avast.com/zh-cn/random-password-generator#pc",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593359663",
+          "name": "香港地址生成",
+          "url": "https://www.meiguodizhi.com/hk-address/hot-city-jiu-long-cheng-qu",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757593374006",
+          "name": "在线地址生成",
+          "url": "https://ratenn.com/",
           "description": "",
           "icon": ""
         }
