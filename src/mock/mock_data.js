@@ -124,6 +124,13 @@ export const mockData = {
           "url": "https://platform.openai.com/chat",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757597173065",
+          "name": "same",
+          "url": "https://same.new/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
