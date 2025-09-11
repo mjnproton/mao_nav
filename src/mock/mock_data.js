@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://aistudio.google.com/prompts/new_chat",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757571268061",
+          "name": "copilot",
+          "url": "https://copilot.microsoft.com/chats/Thpw5BGzCtoi7D9YEBatH",
+          "description": "",
+          "icon": ""
         }
       ]
     },
