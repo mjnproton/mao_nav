@@ -617,6 +617,28 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1757599289450",
+      "icon": "📁",
+      "name": "资源库",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1757599302911",
+          "name": "马克思主义文库",
+          "url": "https://www.marxists.org/chinese/index.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757599345293",
+          "name": "哲学电子书计划",
+          "url": "https://ctext.org/pre-qin-and-han/zhs",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "秀才导航"
