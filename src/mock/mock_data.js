@@ -452,6 +452,13 @@ export const mockData = {
           "url": "https://hao.diggoo.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757597493882",
+          "name": "自建导航",
+          "url": "https://hao.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
