@@ -351,6 +351,13 @@ export const mockData = {
           "url": "https://www.meiguodizhi.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757642333497",
+          "name": "在线地址",
+          "url": "https://ratenn.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
