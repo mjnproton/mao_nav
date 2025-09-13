@@ -138,6 +138,13 @@ export const mockData = {
           "url": "https://same.new/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757751126080",
+          "name": "vidnoz",
+          "url": "https://aiapp-tw.vidnoz.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
