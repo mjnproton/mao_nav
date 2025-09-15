@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://tophub.today/c/news",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757933599232",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
