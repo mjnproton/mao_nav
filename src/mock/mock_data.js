@@ -109,7 +109,8 @@ export const mockData = {
           "id": "site-1757570498343",
           "name": "可灵ai",
           "url": "https://app.klingai.com/cn/",
-          "description": ""
+          "description": "",
+          "icon": "https://app.klingai.com/favicon.ico"
         },
         {
           "id": "site-1757570532703",
