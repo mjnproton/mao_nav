@@ -530,6 +530,20 @@ export const mockData = {
           "url": "https://hao.124787.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758008945429",
+          "name": "聚神铺",
+          "url": "https://www.jspoo.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758009060266",
+          "name": "网络宝藏",
+          "url": "https://nav.wangluobaozang.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
