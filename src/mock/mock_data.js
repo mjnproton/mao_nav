@@ -153,6 +153,13 @@ export const mockData = {
           "url": "https://aiapp-tw.vidnoz.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757986761223",
+          "name": "谷歌实验室",
+          "url": "https://labs.google/fx",
+          "description": "ai",
+          "icon": ""
         }
       ]
     },
