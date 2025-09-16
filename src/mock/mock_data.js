@@ -380,6 +380,20 @@ export const mockData = {
           "url": "https://gmail.pm/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757983464485",
+          "name": "推特下载",
+          "url": "https://next.twitterxdownload.com/zh-CN/downloader",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757983486275",
+          "name": "哔哩哔哩下载",
+          "url": "https://www.xhs-download.online/bilibili-video-download",
+          "description": "",
+          "icon": ""
         }
       ]
     },
