@@ -401,6 +401,13 @@ export const mockData = {
           "url": "https://www.xhs-download.online/bilibili-video-download",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1757987027844",
+          "name": "uu在线工具",
+          "url": "https://uutool.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
