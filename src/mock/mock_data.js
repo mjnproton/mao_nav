@@ -408,13 +408,6 @@ export const mockData = {
           "url": "https://uutool.cn/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1758069476209",
-          "name": "国际学生证",
-          "url": "https://student.frp.gs/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
