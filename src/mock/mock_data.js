@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://www.bilibili.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758169468195",
+          "name": "在线幻灯",
+          "url": "https://hdp.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
