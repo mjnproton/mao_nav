@@ -743,6 +743,13 @@ export const mockData = {
           "url": "https://tstrs.me/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758180923536",
+          "name": "汉典古籍",
+          "url": "https://gj.zdic.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
