@@ -670,13 +670,6 @@ export const mockData = {
           "url": "https://www.dongaigc.com/nav/ai-video",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1758549269318",
-          "name": "24k导航",
-          "url": "https://24kdh.vip/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
