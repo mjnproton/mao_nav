@@ -848,6 +848,13 @@ export const mockData = {
           "url": "https://www.zzzzz688.com/category/pc-game",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758621076639",
+          "name": "koyso游戏",
+          "url": "https://koyso.to/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
