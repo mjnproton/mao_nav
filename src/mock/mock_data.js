@@ -839,7 +839,7 @@ export const mockData = {
           "id": "site-1758620973578",
           "name": "ca游戏",
           "url": "https://www.cagame.one/",
-          "description": "",
+          "description": "视频互动游戏多",
           "icon": ""
         },
         {
