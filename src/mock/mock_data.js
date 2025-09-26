@@ -579,6 +579,13 @@ export const mockData = {
           "url": "https://fuliba123.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758899315004",
+          "name": "鸡盒子",
+          "url": "https://caoniang.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
