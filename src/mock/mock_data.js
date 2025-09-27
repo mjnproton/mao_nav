@@ -862,6 +862,13 @@ export const mockData = {
           "url": "https://koyso.to/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1758952599702",
+          "name": "熊猫搜索读书",
+          "url": "https://xmsoushu.com/#/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
