@@ -869,6 +869,41 @@ export const mockData = {
           "url": "https://xmsoushu.com/#/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1759200937679",
+          "name": "z-library",
+          "url": "https://z-library.sk/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1759201005910",
+          "name": "安娜",
+          "url": "https://zh.annas-archive.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1759201021408",
+          "name": "鸠摩",
+          "url": "https://www.jiumodiary.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1759201049198",
+          "name": "书格",
+          "url": "https://www.shuge.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1759201077944",
+          "name": "古登堡",
+          "url": "https://www.gutenberg.org/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
