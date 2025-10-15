@@ -547,7 +547,7 @@ export const mockData = {
         },
         {
           "id": "site-1757597493882",
-          "name": "自建导航",
+          "name": "自建拾光",
           "url": "https://hao.124787.xyz/",
           "description": "",
           "icon": ""
@@ -591,6 +591,13 @@ export const mockData = {
           "id": "site-1758899315004",
           "name": "鸡盒子",
           "url": "https://caoniang.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1760488927957",
+          "name": "自建书签导航",
+          "url": "https://mjnlive.webn.cc/",
           "description": "",
           "icon": ""
         }
