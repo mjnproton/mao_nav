@@ -918,6 +918,13 @@ export const mockData = {
           "url": "https://www.gutenberg.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1760885627766",
+          "name": "国学大师",
+          "url": "https://www.guoxuedashi.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
