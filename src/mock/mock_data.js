@@ -659,7 +659,7 @@ export const mockData = {
         },
         {
           "id": "site-1757507623259",
-          "name": "冲部落",
+          "name": "虫部落",
           "url": "https://www.chongbuluo.com/",
           "description": "",
           "icon": ""
