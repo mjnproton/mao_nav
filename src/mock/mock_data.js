@@ -913,6 +913,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1760885627766",
+          "name": "国学大师",
+          "url": "https://www.guoxuedashi.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1759201077944",
           "name": "古登堡",
           "url": "https://www.gutenberg.org/",
@@ -920,9 +927,9 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1760885627766",
-          "name": "国学大师",
-          "url": "https://www.guoxuedashi.com/",
+          "id": "site-1761398942328",
+          "name": "马克思主义文库",
+          "url": "https://www.marxists.org/chinese/index.html",
           "description": "",
           "icon": ""
         }
