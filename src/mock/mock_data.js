@@ -167,6 +167,13 @@ export const mockData = {
           "url": "https://labs.google/fx",
           "description": "ai",
           "icon": ""
+        },
+        {
+          "id": "site-1761889808199",
+          "name": "perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
