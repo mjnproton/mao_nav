@@ -457,6 +457,13 @@ export const mockData = {
           "url": "https://m3u8.dev/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762064923240",
+          "name": "考试计时器",
+          "url": "http://time.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
