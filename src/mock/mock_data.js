@@ -443,6 +443,13 @@ export const mockData = {
           "url": "https://tools.pdf24.org/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762047914431",
+          "name": "m3u8播放器",
+          "url": "https://m3u8play.dev/#",
+          "description": "",
+          "icon": ""
         }
       ]
     },
