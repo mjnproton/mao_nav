@@ -436,6 +436,13 @@ export const mockData = {
           "url": "https://superparse.com/zh",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762047688808",
+          "name": "pdf24",
+          "url": "https://tools.pdf24.org/zh/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
