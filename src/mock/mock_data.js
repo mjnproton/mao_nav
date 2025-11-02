@@ -726,6 +726,13 @@ export const mockData = {
           "url": "https://www.dongaigc.com/nav/ai-video",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762048461623",
+          "name": "一糖导航",
+          "url": "https://iitang.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
