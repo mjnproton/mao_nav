@@ -429,6 +429,13 @@ export const mockData = {
           "url": "https://uutool.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762047644378",
+          "name": "短视频解析",
+          "url": "https://superparse.com/zh",
+          "description": "",
+          "icon": ""
         }
       ]
     },
