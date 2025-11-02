@@ -450,6 +450,13 @@ export const mockData = {
           "url": "https://m3u8play.dev/#",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762047936927",
+          "name": "m3u8下载",
+          "url": "https://m3u8.dev/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
