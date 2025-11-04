@@ -747,6 +747,13 @@ export const mockData = {
           "url": "https://search.chongbuluo.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762244588213",
+          "name": "盘搜搜",
+          "url": "https://sousou.pro/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
