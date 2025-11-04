@@ -740,6 +740,13 @@ export const mockData = {
           "url": "https://iitang.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762243215379",
+          "name": "虫部落快搜",
+          "url": "https://search.chongbuluo.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
