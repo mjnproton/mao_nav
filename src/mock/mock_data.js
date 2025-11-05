@@ -1004,6 +1004,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1762319355449",
+      "icon": "📁",
+      "name": "知识点",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1762319377477",
+          "name": "mg4使用手册",
+          "url": "https://www.wolai.com/89rjeaKjQmD9m2kygMQeJE",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "秀才导航"
