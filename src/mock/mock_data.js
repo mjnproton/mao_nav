@@ -754,6 +754,13 @@ export const mockData = {
           "url": "https://sousou.pro/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762312973339",
+          "name": "拾光集导航",
+          "url": "https://nav.wangwangit.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
