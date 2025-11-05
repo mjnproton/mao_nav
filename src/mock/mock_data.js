@@ -773,14 +773,21 @@ export const mockData = {
           "id": "site-1762320503723",
           "name": "华缘社聚合搜索",
           "url": "https://xydh.fun/hysdh",
-          "description": "",
+          "description": "虫部落",
           "icon": ""
         },
         {
           "id": "site-1762320700560",
           "name": "uc-仿虫搜",
           "url": "https://u1.cx/",
-          "description": "",
+          "description": "虫部落",
+          "icon": ""
+        },
+        {
+          "id": "site-1762321237634",
+          "name": "数字素养网",
+          "url": "https://szsyw.cn/",
+          "description": "虫部落",
           "icon": ""
         }
       ]
