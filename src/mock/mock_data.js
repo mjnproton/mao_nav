@@ -1023,6 +1023,13 @@ export const mockData = {
           "url": "https://www.marxists.org/chinese/index.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762320809043",
+          "name": "咖喱君资源库",
+          "url": "http://galiji.ysepan.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
