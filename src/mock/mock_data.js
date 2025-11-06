@@ -238,7 +238,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 3,
       "sites": [
         {
           "id": "binance",
@@ -302,7 +302,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 4,
       "sites": [
         {
           "id": "json-formatter",
@@ -478,7 +478,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 5,
       "sites": [
         {
           "id": "bilibili",
@@ -525,10 +525,74 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1757507338090",
+      "icon": "💻",
+      "name": "影视资源",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1757507489090",
+          "name": "厂长资源",
+          "url": "https://www.czzymovie.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507819365",
+          "name": "4k影视",
+          "url": "https://www.4kvm.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1757507833504",
+          "name": "毒舌",
+          "url": "https://www.dushe1.app/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758182121735",
+          "name": "在线之家",
+          "url": "https://www.zxzjhd.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758182138078",
+          "name": "爱看机器人",
+          "url": "https://v.ikanbot.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758182151600",
+          "name": "大米星球",
+          "url": "http://www.gdxsg.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758182166279",
+          "name": "农民影视",
+          "url": "https://www.nmdvd.cc/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1758182184473",
+          "name": "奈飞工厂",
+          "url": "https://www.netflixgc.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 7,
       "sites": [
         {
           "id": "notion",
@@ -564,7 +628,7 @@ export const mockData = {
       "id": "category-1757232972760",
       "icon": "📁",
       "name": "博客导航",
-      "order": 0,
+      "order": 8,
       "sites": [
         {
           "id": "site-1757233012857",
@@ -656,7 +720,7 @@ export const mockData = {
       "id": "category-1757383157759",
       "icon": "🔍",
       "name": "聚合导航",
-      "order": 0,
+      "order": 9,
       "sites": [
         {
           "id": "site-1757383258446",
@@ -814,81 +878,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1757507338090",
-      "icon": "💻",
-      "name": "影视资源",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1757507489090",
-          "name": "厂长资源",
-          "url": "https://www.czzymovie.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1757507819365",
-          "name": "4k影视",
-          "url": "https://www.4kvm.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1757507833504",
-          "name": "毒舌",
-          "url": "https://www.dushe1.app/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182121735",
-          "name": "在线之家",
-          "url": "https://www.zxzjhd.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182138078",
-          "name": "爱看机器人",
-          "url": "https://v.ikanbot.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182151600",
-          "name": "大米星球",
-          "url": "http://www.gdxsg.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182166279",
-          "name": "农民影视",
-          "url": "https://www.nmdvd.cc/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182184473",
-          "name": "奈飞工厂",
-          "url": "https://www.netflixgc.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1758182223638",
-          "name": "低端影视",
-          "url": "https://ddys.pro/",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
       "id": "category-1757592929786",
       "icon": "📁",
       "name": "域名管理",
-      "order": 0,
+      "order": 10,
       "sites": [
         {
           "id": "site-1757592992347",
@@ -931,7 +924,7 @@ export const mockData = {
       "id": "category-1757599289450",
       "icon": "📁",
       "name": "资源库",
-      "order": 0,
+      "order": 11,
       "sites": [
         {
           "id": "site-1757599302911",
@@ -1072,7 +1065,7 @@ export const mockData = {
       "id": "category-1762319355449",
       "icon": "📁",
       "name": "知识点",
-      "order": 0,
+      "order": 12,
       "sites": [
         {
           "id": "site-1762319377477",
