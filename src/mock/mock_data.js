@@ -881,6 +881,13 @@ export const mockData = {
           "url": "https://hao.diggoo.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762400765432",
+          "name": "办公人导航",
+          "url": "https://www.bgrdh.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
