@@ -669,7 +669,7 @@ export const mockData = {
           "id": "site-1762398627964",
           "name": "视频播放器",
           "url": "https://pornhub.ctrl.li/",
-          "description": "https://happily.webn.cc/；https://video.mjn001.ggff.net/",
+          "description": "",
           "icon": ""
         }
       ]
