@@ -806,13 +806,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1758009060266",
-          "name": "网络宝藏",
-          "url": "https://nav.wangluobaozang.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1758183282527",
           "name": "鸡盒导航",
           "url": "https://caoniang.com/",
