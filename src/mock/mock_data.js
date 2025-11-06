@@ -888,6 +888,13 @@ export const mockData = {
           "url": "https://www.bgrdh.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762416361108",
+          "name": "软件库",
+          "url": "https://www.quruanpu.cn/ziyemian/ruanjianku/index.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
