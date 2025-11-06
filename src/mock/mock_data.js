@@ -54,13 +54,6 @@ export const mockData = {
           "url": "https://www.bilibili.com/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1758169468195",
-          "name": "在线幻灯",
-          "url": "https://hdp.124787.xyz/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -641,7 +634,7 @@ export const mockData = {
     {
       "id": "category-1757232972760",
       "icon": "📁",
-      "name": "博客导航",
+      "name": "自建使用",
       "order": 8,
       "sites": [
         {
@@ -657,6 +650,13 @@ export const mockData = {
           "url": "https://b.124787.xyz/",
           "description": "",
           "icon": "https://www.youtube.com/s/desktop/814d40a6/img/favicon_96x96.png"
+        },
+        {
+          "id": "site-1758169468195",
+          "name": "在线幻灯",
+          "url": "https://hdp.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
