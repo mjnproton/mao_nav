@@ -828,7 +828,7 @@ export const mockData = {
         },
         {
           "id": "site-1762361059044",
-          "name": "喜岳的小口袋",
+          "name": "喜岳小口袋",
           "url": "http://shuji.ysepan.com/",
           "description": " 书籍、影视、音乐、游戏、AI123456",
           "icon": ""
