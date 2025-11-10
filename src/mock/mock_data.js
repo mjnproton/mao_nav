@@ -1133,5 +1133,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "秀才导航"
+  "title": "寒泓书斋"
 }
