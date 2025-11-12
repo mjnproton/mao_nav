@@ -1143,6 +1143,13 @@ export const mockData = {
           "url": "https://cooklikehoc.soilzhu.su/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762952196153",
+          "name": "【秋芝2046】AI资料大全",
+          "url": "https://ccnk05wgo092.feishu.cn/wiki/Q52dwmohyi5dNAkUmMWcTFEfnLq",
+          "description": "",
+          "icon": ""
         }
       ]
     }
