@@ -1191,6 +1191,13 @@ export const mockData = {
           "url": "https://docs.qq.com/sheet/DVktIVU1KRHN5YVZt?tab=BB08J2&nlc=1",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762962755776",
+          "name": "公考资源合集saduck",
+          "url": "https://www.kdocs.cn/l/cdjUhvaZSKUv",
+          "description": "",
+          "icon": ""
         }
       ]
     },
