@@ -54,6 +54,20 @@ export const mockData = {
           "url": "https://www.bilibili.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762959878830",
+          "name": "zlibrary",
+          "url": "https://zlib.wwwnav.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1762959902629",
+          "name": "Olib图书馆",
+          "url": "https://olib.wwwnav.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -1154,6 +1168,20 @@ export const mockData = {
           "id": "site-1762361495567",
           "name": "惜染图库",
           "url": "https://hefollo.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1762959784896",
+          "name": "网盘资源",
+          "url": "https://docs.qq.com/sheet/DVnRqc1V1RXdSUGN4?tab=BB08J2",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1762959764856",
+          "name": "Zlibrary客户端及电子书库",
+          "url": "https://docs.qq.com/sheet/DVktIVU1KRHN5YVZt?tab=BB08J2&nlc=1",
           "description": "",
           "icon": ""
         }
