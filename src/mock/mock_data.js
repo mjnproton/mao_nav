@@ -492,6 +492,13 @@ export const mockData = {
           "url": "https://tubedown.cn/youtube",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762950601595",
+          "name": "uu在线工具",
+          "url": "https://uutool.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
