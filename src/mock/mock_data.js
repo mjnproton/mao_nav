@@ -1198,6 +1198,13 @@ export const mockData = {
           "url": "https://www.kdocs.cn/l/cdjUhvaZSKUv",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762962783107",
+          "name": "公考知识库",
+          "url": "https://saduck.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
