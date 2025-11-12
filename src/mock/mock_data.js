@@ -167,6 +167,13 @@ export const mockData = {
           "url": "https://www.perplexity.ai/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1762947316809",
+          "name": "谷歌智能搜索",
+          "url": "https://www.google.com/search?q=&sca_esv=7fb4ef0b6e58d730&hl=zh-CN&sxsrf=AE3TifMNP8E8DsGhGCzC9s3FVZ7tUxIawA%3A1760670589748&source=hp&ei=fbPxaPrbK8nP1e8P89Wy2QI&iflsig=AOw8s4IAAAAAaPHBjfJH8jwVYj3pLAGeyuPBW7na7GM9&aep=22&udm=50&ved=0ahUKEwi6jsSIoaqQAxXJZ_UHHfOqLCsQteYPCBE&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA&sclient=gws-wiz",
+          "description": "",
+          "icon": ""
         }
       ]
     },
