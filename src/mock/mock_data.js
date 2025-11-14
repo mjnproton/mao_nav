@@ -669,6 +669,13 @@ export const mockData = {
           "url": "https://www.netflixgc.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763084106190",
+          "name": "moovie",
+          "url": "https://moovie.c2v2.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
