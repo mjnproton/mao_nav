@@ -1283,6 +1283,13 @@ export const mockData = {
           "url": "https://china-claude.github.io/claude-cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763084761629",
+          "name": "鸡尾酒百科",
+          "url": "https://www.mixbooze.com/zh",
+          "description": "",
+          "icon": ""
         }
       ]
     }
