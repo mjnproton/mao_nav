@@ -719,6 +719,13 @@ export const mockData = {
           "url": "https://nudegirls4u.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763079670900",
+          "name": "グラビア大銀河",
+          "url": "https://gravuregalaxy.hatenablog.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
