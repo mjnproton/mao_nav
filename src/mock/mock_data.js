@@ -270,13 +270,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "finance",
-      "name": "循环起来",
-      "icon": "💰",
-      "order": 3,
-      "sites": []
-    },
-    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
