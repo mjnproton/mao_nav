@@ -1262,6 +1262,13 @@ export const mockData = {
           "url": "https://gqwwmkhst8i.feishu.cn/wiki/WRldw6ND0i91CVkVwXRcy4BLnMh",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763083844739",
+          "name": "claude中文版",
+          "url": "https://china-claude.github.io/claude-cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
