@@ -534,6 +534,13 @@ export const mockData = {
           "url": "https://uutool.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763079966734",
+          "name": "网站图片提取",
+          "url": "https://extract.pics/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
