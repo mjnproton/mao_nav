@@ -259,6 +259,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1763084602403",
+          "name": "爪云",
+          "url": "https://us-west-1.run.claw.cloud/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
