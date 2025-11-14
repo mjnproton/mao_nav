@@ -274,57 +274,7 @@ export const mockData = {
       "name": "循环起来",
       "icon": "💰",
       "order": 3,
-      "sites": [
-        {
-          "id": "site-1763118280466",
-          "name": "研究所",
-          "url": "https://xn--4qg-pornsuocom-2z4y408c5i8f.pporns.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763118312849",
-          "name": "大神合集",
-          "url": "https://xn---91dsvodcom-gt1t08px00hf5nbl2b.xn--91shen-cy3k.com/?fulione",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763118481047",
-          "name": "泄密",
-          "url": "https://xn--gv1-xiemispcom-265y81sv86ipxq897b.xn--sp-2h1dl53d.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763118599959",
-          "name": "黑料",
-          "url": "https://hlbg10.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763118620161",
-          "name": "我最全",
-          "url": "https://xn--hoy-wzqcomcom-yp8ve33bkpevz1kpxq.sosuoci.com/index.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1757592875982",
-          "name": "Java",
-          "url": "https://jable.tv/categories/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1762400676810",
-          "name": "kuzhainan",
-          "url": "https://kuzhainan.com/",
-          "description": "",
-          "icon": ""
-        }
-      ]
+      "sites": []
     },
     {
       "id": "tools",
