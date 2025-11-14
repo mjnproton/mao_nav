@@ -295,6 +295,13 @@ export const mockData = {
           "url": "https://xn--gv1-xiemispcom-265y81sv86ipxq897b.xn--sp-2h1dl53d.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763118599959",
+          "name": "黑料",
+          "url": "https://hlbg10.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
