@@ -1240,6 +1240,13 @@ export const mockData = {
           "url": "https://www.yuque.com/u25332524/ftq4u7",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763182921855",
+          "name": "cm",
+          "url": "https://github.com/cmliu/edgetunnel/tree/beta2.0",
+          "description": "",
+          "icon": ""
         }
       ]
     }
