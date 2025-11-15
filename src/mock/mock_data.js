@@ -1247,6 +1247,13 @@ export const mockData = {
           "url": "https://github.com/cmliu/edgetunnel/tree/beta2.0",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763182970960",
+          "name": "yongge",
+          "url": "https://github.com/yonggekkk/Cloudflare-vless-trojan",
+          "description": "",
+          "icon": ""
         }
       ]
     }
