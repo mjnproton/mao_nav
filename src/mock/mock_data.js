@@ -1254,6 +1254,13 @@ export const mockData = {
           "url": "https://github.com/yonggekkk/Cloudflare-vless-trojan",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763183029907",
+          "name": "joey",
+          "url": "https://github.com/byJoey/cfnew",
+          "description": "",
+          "icon": ""
         }
       ]
     }
