@@ -1240,27 +1240,6 @@ export const mockData = {
           "url": "https://www.yuque.com/u25332524/ftq4u7",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1763182921855",
-          "name": "cm",
-          "url": "https://github.com/cmliu/edgetunnel/tree/beta2.0",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763182970960",
-          "name": "yongge",
-          "url": "https://github.com/yonggekkk/Cloudflare-vless-trojan",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1763183029907",
-          "name": "joey",
-          "url": "https://github.com/byJoey/cfnew",
-          "description": "",
-          "icon": ""
         }
       ]
     }
