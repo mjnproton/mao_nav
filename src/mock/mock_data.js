@@ -1235,6 +1235,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1763355254224",
+      "icon": "📁",
+      "name": "网盘资源",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1763355269842",
+          "name": "26考公刷题本",
+          "url": "https://pan.quark.cn/s/aefa384d290c",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "寒泓书斋"
