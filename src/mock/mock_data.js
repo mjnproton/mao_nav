@@ -948,7 +948,7 @@ export const mockData = {
           "id": "site-1762416361108",
           "name": "软件库",
           "url": "https://www.quruanpu.cn/ziyemian/ruanjianku/index.html",
-          "description": "",
+          "description": "网盘，软件",
           "icon": ""
         },
         {
