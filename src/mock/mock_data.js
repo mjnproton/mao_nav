@@ -740,6 +740,13 @@ export const mockData = {
           "url": "https://hao.124787.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763655401979",
+          "name": "学习",
+          "url": "https://study.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
