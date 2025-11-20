@@ -1176,6 +1176,13 @@ export const mockData = {
           "url": "https://axutongxue.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763651333206",
+          "name": "微信阅读",
+          "url": "https://weread.qq.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
