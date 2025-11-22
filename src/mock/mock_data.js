@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://somelemon.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
     },
@@ -232,13 +239,6 @@ export const mockData = {
       "icon": "☁️",
       "order": 2,
       "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
         {
           "id": "vercel",
           "name": "Vercel",
