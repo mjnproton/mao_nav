@@ -747,6 +747,13 @@ export const mockData = {
           "url": "https://study.124787.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763789108839",
+          "name": "观影管理",
+          "url": "https://m.mjn.cloudns.pro/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
