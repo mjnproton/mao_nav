@@ -505,6 +505,13 @@ export const mockData = {
           "url": "https://extract.pics/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1763818075096",
+          "name": "临时邮箱",
+          "url": "https://mail.tm/zh/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
