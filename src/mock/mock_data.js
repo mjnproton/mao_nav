@@ -652,7 +652,7 @@ export const mockData = {
           "id": "site-1764340885026",
           "name": "youkutv(moon)",
           "url": "https://www.youkutv.us/",
-          "description": "密码：youkutv",
+          "description": "密码：youkutv.us",
           "icon": ""
         },
         {
