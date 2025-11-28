@@ -731,6 +731,13 @@ export const mockData = {
           "url": "https://www.libvio.cc/",
           "description": "海外资源",
           "icon": ""
+        },
+        {
+          "id": "site-1764347784696",
+          "name": "看韩剧",
+          "url": "https://www.thanju.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
