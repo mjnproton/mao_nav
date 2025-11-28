@@ -117,6 +117,13 @@ export const mockData = {
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1764301268766",
+          "name": "notebooklm",
+          "url": "https://notebooklm.google.com/?authuser=2",
+          "description": "",
+          "icon": ""
         }
       ]
     },
