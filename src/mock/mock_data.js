@@ -668,6 +668,13 @@ export const mockData = {
           "url": "https://ddys.la/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764346511732",
+          "name": "no视频",
+          "url": "https://www.novipnoad.cc/",
+          "description": "海外影视资源多",
+          "icon": ""
         }
       ]
     },
@@ -1046,6 +1053,13 @@ export const mockData = {
           "id": "site-1763116797800",
           "name": "FLS导航",
           "url": "https://flsfls.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1764346472071",
+          "name": "硬核指南",
+          "url": "https://yinghezhinan.com/",
           "description": "",
           "icon": ""
         }
