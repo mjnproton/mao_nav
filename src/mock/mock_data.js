@@ -682,6 +682,13 @@ export const mockData = {
           "url": "https://gaze.run/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764347090639",
+          "name": "茶杯狐",
+          "url": "https://www.cupfox.ai/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
