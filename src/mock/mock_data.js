@@ -696,6 +696,13 @@ export const mockData = {
           "url": "https://hellociqryx6e.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764347320887",
+          "name": "共青春影院",
+          "url": "https://gqc.ink/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
