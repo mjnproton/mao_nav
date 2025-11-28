@@ -675,6 +675,13 @@ export const mockData = {
           "url": "https://www.novipnoad.cc/",
           "description": "海外影视资源多",
           "icon": ""
+        },
+        {
+          "id": "site-1764346577055",
+          "name": "gaze",
+          "url": "https://gaze.run/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
