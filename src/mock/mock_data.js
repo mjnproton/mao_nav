@@ -519,13 +519,6 @@ export const mockData = {
           "url": "https://mail.tm/zh/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1764225301554",
-          "name": "学生证生成器",
-          "url": "https://student.frp.gs/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
