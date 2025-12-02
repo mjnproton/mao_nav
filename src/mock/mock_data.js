@@ -251,6 +251,13 @@ export const mockData = {
           "url": "https://www.turnitin.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764662837695",
+          "name": "ai写作",
+          "url": "https://lw.superxie.com/paper",
+          "description": "",
+          "icon": ""
         }
       ]
     },
