@@ -244,6 +244,13 @@ export const mockData = {
           "url": "https://copilot.microsoft.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764662812435",
+          "name": "ai查重",
+          "url": "https://www.turnitin.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
