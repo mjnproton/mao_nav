@@ -933,7 +933,7 @@ export const mockData = {
         {
           "id": "site-1764650634328",
           "name": "露娜tv",
-          "url": "https://mjn.zeabur.app/",
+          "url": "https://imagine.sylu.net/",
           "description": "",
           "icon": ""
         }
