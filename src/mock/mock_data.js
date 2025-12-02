@@ -237,6 +237,13 @@ export const mockData = {
           "url": "https://www.perplexity.ai/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764658342520",
+          "name": "copilot",
+          "url": "https://copilot.microsoft.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
