@@ -1485,6 +1485,13 @@ export const mockData = {
           "url": "https://github.com/hafrey1/LunaTV-config",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764743456155",
+          "name": "癸酉本石头记",
+          "url": "https://vicalloy.github.io/the-guiyou-version-of-dream-of-the-red-chamber/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
