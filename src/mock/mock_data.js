@@ -1339,13 +1339,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1759201049198",
-          "name": "书格",
-          "url": "https://www.shuge.org/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1760885627766",
           "name": "国学大师",
           "url": "https://www.guoxuedashi.com/",
