@@ -801,6 +801,13 @@ export const mockData = {
           "url": "http://www.viptv01.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764768321332",
+          "name": "修罗影视",
+          "url": "https://xl01.com.de/",
+          "description": "高清资源",
+          "icon": ""
         }
       ]
     },
