@@ -1442,6 +1442,13 @@ export const mockData = {
           "url": "https://olib.wwwnav.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764826992065",
+          "name": "Z-Library图书馆",
+          "url": "https://zlib.wwwnav.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
