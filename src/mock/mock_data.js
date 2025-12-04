@@ -1353,13 +1353,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1759200937679",
-          "name": "z-library",
-          "url": "https://z-library.sk/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1759201005910",
           "name": "安娜",
           "url": "https://zh.annas-archive.org/",
@@ -1440,6 +1433,13 @@ export const mockData = {
           "id": "site-1763651333206",
           "name": "微信阅读",
           "url": "https://weread.qq.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1764826968664",
+          "name": "Olib开放图书馆",
+          "url": "https://olib.wwwnav.com/",
           "description": "",
           "icon": ""
         }
