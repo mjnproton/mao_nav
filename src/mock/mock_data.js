@@ -547,6 +547,13 @@ export const mockData = {
           "url": "https://mail.tm/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764916816878",
+          "name": "去除sora水印",
+          "url": "https://nosorawm.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
