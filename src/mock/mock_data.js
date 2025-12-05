@@ -907,6 +907,13 @@ export const mockData = {
           "url": "https://www.runningcheese.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764900363385",
+          "name": "学姐吧",
+          "url": "https://xuejie1024.com/meizitu",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -1214,6 +1221,13 @@ export const mockData = {
           "id": "site-1764346472071",
           "name": "硬核指南",
           "url": "https://yinghezhinan.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1764900334697",
+          "name": "学姐导航",
+          "url": "https://xuejie.cc/",
           "description": "",
           "icon": ""
         }
