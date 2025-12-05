@@ -829,6 +829,13 @@ export const mockData = {
           "url": "https://www.renren.pro/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764947502477",
+          "name": "日本短剧",
+          "url": "https://swipedrama.com/zh/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
