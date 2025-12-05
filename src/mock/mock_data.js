@@ -554,6 +554,13 @@ export const mockData = {
           "url": "https://nosorawm.app/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764916852344",
+          "name": "m3u8播放下载",
+          "url": "https://m3u8-player.net/en/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
