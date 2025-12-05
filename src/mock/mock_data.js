@@ -914,6 +914,13 @@ export const mockData = {
           "url": "https://xuejie1024.com/meizitu",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1764900479178",
+          "name": "1yis",
+          "url": "https://www.1y.is/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
