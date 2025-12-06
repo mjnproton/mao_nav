@@ -1585,13 +1585,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1763083844739",
-          "name": "claude中文版",
-          "url": "https://china-claude.github.io/claude-cn/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1763084761629",
           "name": "鸡尾酒百科",
           "url": "https://www.mixbooze.com/zh",
@@ -1616,6 +1609,13 @@ export const mockData = {
           "id": "site-1764743456155",
           "name": "癸酉本石头记",
           "url": "https://vicalloy.github.io/the-guiyou-version-of-dream-of-the-red-chamber/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1764994967202",
+          "name": "国内claude",
+          "url": "https://gqwwmkhst8i.feishu.cn/wiki/JhtKwYdyaiSLCMkNzSIcnVQPnHg?from=from_copylink",
           "description": "",
           "icon": ""
         }
