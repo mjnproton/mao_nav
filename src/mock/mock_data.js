@@ -582,6 +582,13 @@ export const mockData = {
           "url": "https://m3u8-player.net/en/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765241806252",
+          "name": "ip优选",
+          "url": "https://www.wetest.vip/page/cloudflare/address_v4.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
