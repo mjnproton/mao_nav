@@ -1665,7 +1665,7 @@ export const mockData = {
           "id": "site-1765372665065",
           "name": "公益测速地址",
           "url": "https://github.com/XIU2/CloudflareSpeedTest/discussions/490",
-          "description": "",
+          "description": "小林优选ip",
           "icon": ""
         }
       ]
