@@ -596,6 +596,13 @@ export const mockData = {
           "url": "https://stock.hostmonit.com/CloudFlareYes",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765346759537",
+          "name": "麒麟优选",
+          "url": "https://api.uouin.com/cloudflare.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
