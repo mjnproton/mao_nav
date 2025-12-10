@@ -589,6 +589,13 @@ export const mockData = {
           "url": "https://www.wetest.vip/page/cloudflare/address_v4.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765346156752",
+          "name": "优选IP",
+          "url": "https://stock.hostmonit.com/CloudFlareYes",
+          "description": "",
+          "icon": ""
         }
       ]
     },
