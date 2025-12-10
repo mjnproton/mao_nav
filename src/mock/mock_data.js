@@ -1660,6 +1660,13 @@ export const mockData = {
           "url": "https://gqwwmkhst8i.feishu.cn/wiki/JhtKwYdyaiSLCMkNzSIcnVQPnHg?from=from_copylink",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765372665065",
+          "name": "公益测速地址",
+          "url": "https://github.com/XIU2/CloudflareSpeedTest/discussions/490",
+          "description": "",
+          "icon": ""
         }
       ]
     },
