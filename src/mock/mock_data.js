@@ -1052,7 +1052,7 @@ export const mockData = {
         {
           "id": "site-1762064923240",
           "name": "考试计时器",
-          "url": "https://time.csumjn.netlib.re/",
+          "url": "https://ks.124787.xyz/",
           "description": "",
           "icon": ""
         },
