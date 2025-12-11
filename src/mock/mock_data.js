@@ -1667,6 +1667,13 @@ export const mockData = {
           "url": "https://github.com/XIU2/CloudflareSpeedTest/discussions/490",
           "description": "小林优选ip",
           "icon": ""
+        },
+        {
+          "id": "site-1765419655644",
+          "name": "m3u5猫抓",
+          "url": "https://github.com/xifangczy/cat-catch",
+          "description": "",
+          "icon": ""
         }
       ]
     },
