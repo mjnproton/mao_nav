@@ -343,6 +343,13 @@ export const mockData = {
           "url": "https://app.netlify.com/teams/mjn1247/projects",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765527039608",
+          "name": "upstash",
+          "url": "https://console.upstash.com/redis?teamid=0",
+          "description": "",
+          "icon": ""
         }
       ]
     },
