@@ -1717,6 +1717,13 @@ export const mockData = {
           "url": "https://danboxingqiu.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765556273975",
+          "name": "IDM俄罗斯大神版",
+          "url": "https://wwat.lanzoul.com/b031wh87e",
+          "description": "",
+          "icon": ""
         }
       ]
     }
