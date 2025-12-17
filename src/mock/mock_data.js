@@ -145,6 +145,13 @@ export const mockData = {
           "url": "https://cx.cnki.net/#/login",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765945501470",
+          "name": "weverse",
+          "url": "https://weverse.io/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
