@@ -1436,13 +1436,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1762485377872",
-          "name": "netlib.re",
-          "url": "https://www.netlib.re/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1764732436981",
           "name": "dnshe",
           "url": "https://my.dnshe.com/clientarea.php",
