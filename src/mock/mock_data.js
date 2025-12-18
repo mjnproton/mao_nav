@@ -152,6 +152,13 @@ export const mockData = {
           "url": "https://weverse.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766040618303",
+          "name": "中国知网",
+          "url": "https://www.cnki.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
