@@ -927,6 +927,13 @@ export const mockData = {
           "url": "https://www.wyys.cf/",
           "description": "123",
           "icon": ""
+        },
+        {
+          "id": "site-1766018896382",
+          "name": "优质资源",
+          "url": "https://1080zyk7.com/",
+          "description": "福利吧",
+          "icon": ""
         }
       ]
     },
