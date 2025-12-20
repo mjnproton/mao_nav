@@ -402,13 +402,6 @@ export const mockData = {
           "icon": "/sitelogo/tinypng.com.ico"
         },
         {
-          "id": "site-1757592829171",
-          "name": "油管下载",
-          "url": "https://ssyoutube.online/en1/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1760359393691",
           "name": "油管下载一",
           "url": "https://addyoutube.com/",
