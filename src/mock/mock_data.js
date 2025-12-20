@@ -371,6 +371,13 @@ export const mockData = {
           "url": "https://console.upstash.com/redis?teamid=0",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766236796339",
+          "name": "huggingface",
+          "url": "https://huggingface.co/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
