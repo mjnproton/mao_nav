@@ -1174,6 +1174,13 @@ export const mockData = {
           "url": "https://imagine.sylu.cc/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766383702563",
+          "name": "书籍",
+          "url": "https://booklog.sylu.cc/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
