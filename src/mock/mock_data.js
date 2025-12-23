@@ -1116,7 +1116,7 @@ export const mockData = {
           "id": "site-1760488927957",
           "name": "自建书签导航",
           "url": "https://mjnlive.webn.cc/",
-          "description": "",
+          "description": "https://anxinlove.sylu.net/",
           "icon": ""
         },
         {
