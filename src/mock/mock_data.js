@@ -293,6 +293,13 @@ export const mockData = {
           "url": "https://lw.superxie.com/paper",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1766449722635",
+          "name": "aiwind提示词",
+          "url": "https://www.aiwind.org/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
