@@ -645,6 +645,13 @@ export const mockData = {
           "url": "https://tubedown.cn/youtube",
           "description": " 油管",
           "icon": ""
+        },
+        {
+          "id": "site-1766938430256",
+          "name": "优选域名",
+          "url": "https://cf.090227.xyz/",
+          "description": "爱分享的marco",
+          "icon": ""
         }
       ]
     },
