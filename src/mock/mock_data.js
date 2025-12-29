@@ -166,6 +166,13 @@ export const mockData = {
           "url": "https://www.threads.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767020978493",
+          "name": "ins",
+          "url": "https://www.instagram.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
