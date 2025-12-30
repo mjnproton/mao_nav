@@ -666,6 +666,13 @@ export const mockData = {
           "url": "https://cf.090227.xyz/",
           "description": "爱分享的marco",
           "icon": ""
+        },
+        {
+          "id": "site-1767102905528",
+          "name": "家宽",
+          "url": "https://www.pyproxy.com/zh-tw/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
