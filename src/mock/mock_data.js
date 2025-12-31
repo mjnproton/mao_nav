@@ -673,6 +673,13 @@ export const mockData = {
           "url": "https://www.pyproxy.com/zh-tw/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767201861831",
+          "name": "joy-edu",
+          "url": "https://jhb.edu.kg/email",
+          "description": "",
+          "icon": ""
         }
       ]
     },
