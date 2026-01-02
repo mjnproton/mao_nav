@@ -680,6 +680,13 @@ export const mockData = {
           "url": "https://jhb.edu.kg/email",
           "description": "zyf2138@jhb.edu.kg",
           "icon": ""
+        },
+        {
+          "id": "site-1767342440599",
+          "name": "纸张",
+          "url": "https://n.showmsg.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
