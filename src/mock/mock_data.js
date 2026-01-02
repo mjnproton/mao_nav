@@ -687,6 +687,13 @@ export const mockData = {
           "url": "https://n.showmsg.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767369470197",
+          "name": "个人主页",
+          "url": "https://yufei.de5.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
