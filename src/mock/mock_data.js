@@ -454,7 +454,7 @@ export const mockData = {
           "id": "site-1757594330003",
           "name": "康康edu",
           "url": "https://zmkk.edu.kg/email",
-          "description": "",
+          "description": "124787@zmkk.edu.kg",
           "icon": ""
         },
         {
