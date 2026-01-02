@@ -678,7 +678,7 @@ export const mockData = {
           "id": "site-1767201861831",
           "name": "joy-edu",
           "url": "https://jhb.edu.kg/email",
-          "description": "",
+          "description": "zyf2138@jhb.edu.kg",
           "icon": ""
         }
       ]
