@@ -687,6 +687,13 @@ export const mockData = {
           "url": "https://n.showmsg.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767456884684",
+          "name": "WebSSH",
+          "url": "https://ssh.eooce.com/",
+          "description": "老王的\nbash <(curl -Ls ssh_tool.eooce.com)",
+          "icon": ""
         }
       ]
     },
