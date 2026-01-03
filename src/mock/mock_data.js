@@ -694,6 +694,13 @@ export const mockData = {
           "url": "https://ssh.eooce.com/",
           "description": "老王的\nbash <(curl -Ls ssh_tool.eooce.com)",
           "icon": ""
+        },
+        {
+          "id": "site-1767457612324",
+          "name": "地址生成",
+          "url": "https://ratenn.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
