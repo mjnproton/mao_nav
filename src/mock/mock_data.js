@@ -399,13 +399,6 @@ export const mockData = {
           "url": "https://huggingface.co/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1767458058138",
-          "name": "icmp",
-          "url": "https://icmp9.com/user/dashboard",
-          "description": "每天打卡延期\n\n",
-          "icon": ""
         }
       ]
     },
@@ -1277,6 +1270,13 @@ export const mockData = {
           "id": "site-1767369470197",
           "name": "个人主页",
           "url": "https://yufei.de5.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767497190203",
+          "name": "小林测速",
+          "url": "https://ip-cesu.yfz-5e3.workers.dev/",
           "description": "",
           "icon": ""
         }
