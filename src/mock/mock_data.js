@@ -1255,7 +1255,7 @@ export const mockData = {
         {
           "id": "site-1766793711599",
           "name": "笔记",
-          "url": "https://fxknote.sylu.cc/",
+          "url": "https://biji-6jk.pages.dev/",
           "description": "",
           "icon": ""
         },
