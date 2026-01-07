@@ -1253,13 +1253,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1766793711599",
-          "name": "笔记",
-          "url": "https://biji-6jk.pages.dev/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1767109750884",
           "name": "ip归属",
           "url": "https://ip.mjnyys.dpdns.org/",
