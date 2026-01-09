@@ -173,6 +173,13 @@ export const mockData = {
           "url": "https://www.instagram.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767958960847",
+          "name": "wise",
+          "url": "https://wise.com/home",
+          "description": "",
+          "icon": ""
         }
       ]
     },
