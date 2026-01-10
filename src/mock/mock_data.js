@@ -1279,13 +1279,6 @@ export const mockData = {
           "url": "https://ip-cesu.yfz-5e3.workers.dev/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1767965928459",
-          "name": "indevs",
-          "url": "https://domain.stackryze.com/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -1573,6 +1566,13 @@ export const mockData = {
           "name": "dnshe",
           "url": "https://my.dnshe.com/clientarea.php",
           "description": "de5",
+          "icon": ""
+        },
+        {
+          "id": "site-1767965928459",
+          "name": "indevs",
+          "url": "https://domain.stackryze.com/",
+          "description": "",
           "icon": ""
         }
       ]
