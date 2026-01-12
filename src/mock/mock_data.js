@@ -180,6 +180,13 @@ export const mockData = {
           "url": "https://wise.com/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768201834550",
+          "name": "paypal",
+          "url": "https://www.paypal.com/myaccount/summary",
+          "description": "",
+          "icon": ""
         }
       ]
     },
