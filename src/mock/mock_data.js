@@ -715,6 +715,13 @@ export const mockData = {
           "url": "https://ratenn.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768273782570",
+          "name": "cm webssh",
+          "url": "https://ssh.cmliussss.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
