@@ -1281,13 +1281,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1767369470197",
-          "name": "个人主页",
-          "url": "https://yufei.de5.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1767497190203",
           "name": "小林测速",
           "url": "https://ip-cesu.yfz-5e3.workers.dev/",
