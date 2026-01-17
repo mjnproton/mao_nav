@@ -413,6 +413,13 @@ export const mockData = {
           "url": "https://huggingface.co/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768625868813",
+          "name": "edge one",
+          "url": "https://console.tencentcloud.com/edgeone/zones",
+          "description": "",
+          "icon": ""
         }
       ]
     },
