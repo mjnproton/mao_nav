@@ -1293,13 +1293,6 @@ export const mockData = {
           "url": "https://ip.mjnyys.dpdns.org/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1767497190203",
-          "name": "小林测速",
-          "url": "https://ip-cesu.yfz-5e3.workers.dev/",
-          "description": "",
-          "icon": ""
         }
       ]
     },
