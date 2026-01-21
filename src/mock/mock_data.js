@@ -335,6 +335,13 @@ export const mockData = {
           "url": "https://app.klingai.com/cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769002306613",
+          "name": "海螺",
+          "url": "https://hailuoai.video/zh-Intl",
+          "description": "",
+          "icon": ""
         }
       ]
     },
