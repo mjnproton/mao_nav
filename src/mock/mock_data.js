@@ -1053,6 +1053,13 @@ export const mockData = {
           "url": "https://www.hongguoguo.tv/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769002230190",
+          "name": "viu tv",
+          "url": "https://viu.tv/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
