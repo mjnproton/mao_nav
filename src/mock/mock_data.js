@@ -328,6 +328,13 @@ export const mockData = {
           "url": "https://www.aiwind.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769002275797",
+          "name": "keling",
+          "url": "https://app.klingai.com/cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
