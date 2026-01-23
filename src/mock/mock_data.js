@@ -743,6 +743,13 @@ export const mockData = {
           "url": "https://ssh.cmliussss.net/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769128636874",
+          "name": "临时邮箱",
+          "url": "https://em.bjedu.tech",
+          "description": "",
+          "icon": ""
         }
       ]
     },
