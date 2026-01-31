@@ -187,6 +187,13 @@ export const mockData = {
           "url": "https://www.paypal.com/myaccount/summary",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769872807818",
+          "name": "reddit",
+          "url": "https://www.reddit.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
