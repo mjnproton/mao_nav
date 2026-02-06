@@ -1335,6 +1335,13 @@ export const mockData = {
           "url": "https://ip.mjnyys.dpdns.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770365010054",
+          "name": "mo日记",
+          "url": "https://mo.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
