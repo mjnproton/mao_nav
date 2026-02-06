@@ -194,6 +194,13 @@ export const mockData = {
           "url": "https://www.reddit.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770421924006",
+          "name": "pinterest",
+          "url": "https://www.pinterest.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
