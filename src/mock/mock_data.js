@@ -1356,6 +1356,13 @@ export const mockData = {
           "url": "https://mo.124787.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770453796573",
+          "name": "思源笔记",
+          "url": "https://siyuan.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
