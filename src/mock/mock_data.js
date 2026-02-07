@@ -201,6 +201,13 @@ export const mockData = {
           "url": "https://www.pinterest.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770444929687",
+          "name": "flomo",
+          "url": "https://v.flomoapp.com/login/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
