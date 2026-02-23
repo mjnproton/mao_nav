@@ -208,6 +208,13 @@ export const mockData = {
           "url": "https://v.flomoapp.com/login/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1771853508700",
+          "name": "twitch",
+          "url": "https://www.twitch.tv/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
