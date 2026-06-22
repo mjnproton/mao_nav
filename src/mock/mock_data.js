@@ -1323,13 +1323,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1764650634328",
-          "name": "露娜tv",
-          "url": "https://imagine.sylu.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1765175895127",
           "name": "libre备份",
           "url": "http://sexybb.de5.net/",
