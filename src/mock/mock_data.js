@@ -1353,7 +1353,7 @@ export const mockData = {
         {
           "id": "site-1766383702563",
           "name": "书籍",
-          "url": "https://booklog.sylu.cc/",
+          "url": "https://book.124787.xyz",
           "description": "",
           "icon": ""
         },
