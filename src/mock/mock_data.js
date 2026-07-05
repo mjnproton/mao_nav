@@ -797,7 +797,7 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "专项聚合",
+      "name": "模糊地带",
       "icon": "🎮",
       "order": 5,
       "sites": [
