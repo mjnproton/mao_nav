@@ -1398,6 +1398,13 @@ export const mockData = {
           "url": "https://xp.124787.xyz/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786107496009",
+          "name": "管理中心",
+          "url": "https://aj.124787.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
