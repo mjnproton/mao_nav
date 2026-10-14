@@ -222,6 +222,13 @@ export const mockData = {
           "url": "https://app.grammarly.com/",
           "description": "翻译",
           "icon": ""
+        },
+        {
+          "id": "site-1791978811623",
+          "name": "党校",
+          "url": "https://www.jlsdyjy.cn/trainee/pc/index.html#/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
