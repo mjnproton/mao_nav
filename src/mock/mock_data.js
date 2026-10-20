@@ -799,6 +799,13 @@ export const mockData = {
           "url": "https://www.wenshushu.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1792481797737",
+          "name": "抖音聚合",
+          "url": "https://dy-nps.pages.dev/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
